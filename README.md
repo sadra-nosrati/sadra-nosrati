@@ -1,74 +1,84 @@
 ```md
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f3460,100:00c6ff&height=240&section=header&text=Sadra%20Nosrati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descSize=18&descAlignY=60" width="100%" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning+and+Building" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:1E3A8A,100:38BDF8&text=Sadra%20Nosrati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=60&descSize=20"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadra-nosrati&color=00c6ff&style=flat-square&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/sadra-nosrati?label=FOLLOWERS&style=flat-square&color=00c6ff"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0f3460?style=flat-square"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS;Clean+UI+%7C+Responsive+Design;Always+Learning+Something+New"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sadra-nosrati&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sadra-nosrati?style=for-the-badge&color=0ea5e9&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0ea5e9?style=for-the-badge&labelColor=0F172A"/>
+
+</div>
 
 ---
 
 # 👋 About Me
 
-Hi, I'm **Sadra Nosrati**, a Front-End Developer based in **Tehran, Iran**.
+I'm **Sadra Nosrati**, a **Front-End Developer** based in **Tehran, Iran**.
 
-I enjoy building responsive, modern, and user-friendly web applications using clean code and contemporary web technologies. I continuously improve my skills by developing real-world projects and exploring new tools within the front-end ecosystem.
+I enjoy building modern, responsive, and user-friendly web applications using clean and maintainable code. My focus is creating intuitive user interfaces while continuously improving my skills through practical projects and modern front-end technologies.
 
-- 🌍 Based in Tehran, Iran
-- 💻 Front-End Developer
-- 🚀 Passionate about responsive UI and modern web development
-- 📚 Currently expanding my knowledge of React and modern front-end development
-- 🎯 Focused on writing clean, maintainable, and scalable code
+### What I Focus On
+
+- ⚛️ Building responsive web applications
+- 🎨 Clean and modern UI design
+- 🚀 Performance and user experience
+- 📚 Continuous learning and improvement
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
-### 🧰 Tools
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
@@ -76,31 +86,45 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 ### 🛒 Digital Parts Store
 
-A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP to practice modern front-end development and basic dynamic functionality.
+A responsive e-commerce website built with **HTML**, **CSS**, **JavaScript**, and **PHP**, created to practice responsive layouts, interactive UI components, and basic dynamic functionality.
 
-> More projects will be added as I continue building and learning.
+> More projects are coming soon...
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React
+- Modern JavaScript
+- Front-End Architecture
+- Performance Optimization
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://github.com/sadra-nosrati">
-<img src="https://img.shields.io/badge/GitHub-Profile-00c6ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://t.me/levioosu">
-<img src="https://img.shields.io/badge/Telegram-@levioosu-00c6ff?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0f3460,100:0a192f&height=120&section=footer"/>
+<div align="center">
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+> *"Great user experiences are built through thoughtful design and clean code."*
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,40:1E3A8A,100:0F172A"/>
+
 ```
