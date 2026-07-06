@@ -50,27 +50,22 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 # 📊 GitHub Analytics
 
 <p align="center">
+
   <img height="170"
     src="https://github-readme-stats.shion.dev/api?username=sadra-nosrati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
+  &nbsp;
+
   <img height="170"
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=sadra-nosrati&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+
 </p>
 
 <p align="center">
-  <img
+
+  <img height="170"
     src="https://streak-stats.demolab.com/?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"
-    onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=react-dark&hide_border=true&area=true';"
-  />
 </p>
 
 ---
