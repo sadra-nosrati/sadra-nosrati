@@ -23,46 +23,43 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 - 🌍 Based in Tehran, Iran
 - 💻 Front-End Developer
 - 🚀 Passionate about responsive UI and modern web development
-- 📚 Currently expanding my knowledge of React and modern front-end development
-- 🎯 Focused on writing clean, maintainable, and scalable code
+- 📚 Currently expanding React knowledge
+- 🎯 Focused on clean and scalable code
 
 ---
 
 # 🚀 Tech Stack
 
 ### 💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
 </p>
 
 ### 🧰 Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics (Reliable Version)
+# 📊 GitHub Statistics
 
 <p align="center">
 
-  <!-- PRIMARY -->
+  <!-- MAIN (vercel mirror chain) -->
   <img height="170"
     src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    onerror="this.onerror=null;this.src='https://gh-stats.mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true';"
+    onerror="this.onerror=null;this.src='https://gh-stats-mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true';"
   />
 
   <!-- BACKUP MIRROR -->
   <img height="170"
-    src="https://gh-stats.mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://gh-stats-mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
 
 </p>
@@ -71,23 +68,20 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
   <img height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"
-    onerror="this.onerror=null;this.src='https://gh-stats.mirror.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true';"
+    onerror="this.onerror=null;this.src='https://gh-stats-mirror.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true';"
   />
 
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadra-nosrati&theme=tokyonight&hide_border=true"
-       onerror="this.style.display='none'" />
-</p>
-
 ---
 
-# 📈 Contribution Graph (Stable fallback added)
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"
-       onerror="this.onerror=null;this.src='https://github-readme-activity-graph.cyclic.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true';" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"
+    onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=react-dark&hide_border=true&area=true';"
+  />
 </p>
 
 ---
@@ -96,9 +90,7 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 ### 🛒 Digital Parts Store
 
-A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP to practice modern front-end development and basic dynamic functionality.
-
-> More projects will be added as I continue building and learning.
+A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
 
 ---
 
@@ -115,8 +107,6 @@ A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP to pra
 </a>
 
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0f3460,100:0a192f&height=120&section=footer"/>
 
