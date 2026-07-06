@@ -1,97 +1,102 @@
 <div align="center">
 
-# Sadra Nosrati
+  <!-- Hero Banner with Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=6366f1,8b5cf6&height=280&section=header&text=Sadra%20Nosrati&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 
-### Front-End Developer
+  <h1>👋 Hi, I'm Sadra Nosrati</h1>
+  
+  <p>
+    <strong>Front-End Developer</strong> از تهران | عاشق ساخت تجربه‌های وب مدرن، سریع و کاربرمحور
+  </p>
 
-Building clean, responsive and modern web experiences.
+  <p>
+    <a href="https://github.com/sadra-nosrati">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://t.me/levioosu">
+      <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sadra-nosrati&style=for-the-badge&color=0ea5e9)](https://github.com/sadra-nosrati)
-[![Followers](https://img.shields.io/github/followers/sadra-nosrati?style=for-the-badge)](https://github.com/sadra-nosrati?tab=followers)
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=6366f1&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%7C+Tailwind+%7C+TypeScript;Clean+Code+%26+Pixel-Perfect+UI;Always+learning+new+things" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👋 About
+## 🚀 درباره من
 
-I'm **Sadra Nosrati**, a Front-End Developer based in **Tehran, Iran**.
+من **صدرا نصرتی** هستم، فرانت‌اند دولوپر مستقر در **تهران**.  
+تمرکزم روی ساخت رابط‌های کاربری **تمیز، responsive و performant** با فناوری‌های مدرن هست.
 
-I enjoy creating fast, responsive and user-focused web interfaces. My current focus is strengthening my front-end engineering skills through practical projects and modern technologies.
-
-- 🌍 Tehran, Iran
-- 💼 Open to Front-End opportunities
-- 🌱 Currently learning advanced React and front-end architecture
-- 🎯 Interested in clean UI, performance and maintainable code
-
----
-
-## 🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode"/>
-</p>
+- 🌍 **مکان:** تهران، ایران
+- 💼 **وضعیت:** باز برای فرصت‌های Front-End / React
+- 🌱 **در حال یادگیری:** Advanced React Patterns, Next.js, Performance Optimization
+- 🎯 **علاقه‌ها:** UI/UX زیبا، انیمیشن‌های نرم، کد تمیز و maintainable
 
 ---
 
-## 📌 Featured Project
+## 🛠️ Tech Stack
 
-### 🛒 Digital Parts Store
+<div align="center">
 
-A responsive e-commerce website built with **HTML**, **CSS**, **JavaScript**, and **PHP**.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- Responsive layout
-- Swiper integration
-- Dynamic PHP functionality
-- Clean project structure
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📌 پروژه‌های منتخب
+
+### 🛒 [Digital Parts Store](https://github.com/sadra-nosrati/digital-parts-store)
+سایت فروشگاهی کاملاً responsive برای قطعات دیجیتال با Swiper، انیمیشن‌های نرم و ساختار تمیز.
+
+**تکنولوژی‌ها:** HTML • CSS • JavaScript • PHP
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&locale=fa" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadra-nosrati&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-## 🌱 Current Focus
+## 🌟 چیزهایی که در حال کار روشون هستم
 
-- React
-- Modern JavaScript
-- UI Engineering
-- Performance Optimization
-- Accessible Interfaces
-
----
-
-## 📫 Connect
-
-<p>
-
-<a href="https://github.com/sadra-nosrati">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://t.me/levioosu">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
+- **React + TypeScript** (Advanced)
+- **Next.js** و Server Components
+- **بهینه‌سازی عملکرد** و Accessibility
+- **UI Engineering** و Design Systems
 
 ---
+
+## 📫 ارتباط با من
 
 <div align="center">
 
-> "Great user experiences are built through thoughtful design and clean code."
+[![Telegram](https://img.shields.io/badge/Telegram-@levioosu-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/levioosu)
+[![GitHub](https://img.shields.io/badge/GitHub-sadra--nosrati-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadra-nosrati)
 
+</div>
+
+---
+
+<blockquote align="center">
+  "Great user experiences are built with thoughtful design, clean code, and a bit of magic ✨"
+</blockquote>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6366f1,8b5cf6&height=120&section=footer&text=Thank%20You%20for%20Visiting&fontSize=18&fontColor=ffffff" />
 </div>
