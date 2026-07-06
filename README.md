@@ -70,6 +70,15 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 ---
 
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
 # 📌 Featured Projects
 
 ### 🛒 Digital Parts Store
