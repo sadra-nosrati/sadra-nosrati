@@ -51,24 +51,12 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 <p align="center">
 
-  <!-- MAIN (vercel mirror chain) -->
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    onerror="this.onerror=null;this.src='https://gh-stats-mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true';"
-  />
-
-  <!-- BACKUP MIRROR -->
   <img height="170"
     src="https://gh-stats-mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
 
-</p>
-
-<p align="center">
-
   <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"
-    onerror="this.onerror=null;this.src='https://gh-stats-mirror.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true';"
+    src="https://gh-stats-mirror.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </p>
