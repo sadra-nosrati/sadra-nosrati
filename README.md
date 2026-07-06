@@ -50,23 +50,44 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Statistics (Reliable Version)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <!-- PRIMARY -->
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    onerror="this.onerror=null;this.src='https://gh-stats.mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true';"
+  />
+
+  <!-- BACKUP MIRROR -->
+  <img height="170"
+    src="https://gh-stats.mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
+
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"
+    onerror="this.onerror=null;this.src='https://gh-stats.mirror.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true';"
+  />
+
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadra-nosrati&theme=tokyonight&hide_border=true"
+       onerror="this.style.display='none'" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Graph (Stable fallback added)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"
+       onerror="this.onerror=null;this.src='https://github-readme-activity-graph.cyclic.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true';" />
 </p>
 
 ---
