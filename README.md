@@ -108,6 +108,8 @@ A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
 
 </p>
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0f3460,100:0a192f&height=120&section=footer"/>
 
 <p align="center">
