@@ -49,24 +49,24 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
   <img height="170"
     src="https://github-readme-stats.shion.dev/api?username=sadra-nosrati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  &nbsp;
+  &nbsp;&nbsp;
 
   <img height="170"
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=sadra-nosrati&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
   <img height="170"
     src="https://streak-stats.demolab.com/?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
