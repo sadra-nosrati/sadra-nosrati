@@ -47,19 +47,14 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
 ---
 
-# 📊 GitHub Statistics
+📊 GitHub Analytics
+<img height="170"
+src="https://github-readme-stats.shion.dev/api?username=ahbandegan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<p align="center">
+<img height="170"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahbandegan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-  <img height="170"
-    src="https://gh-stats-mirror.vercel.app/api?username=sadra-nosrati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-  <img height="170"
-    src="https://gh-stats-mirror.vercel.app/api/top-langs/?username=sadra-nosrati&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
-</p>
+<img src="https://streak-stats.demolab.com/?user=ahbandegan&theme=tokyonight&hide_border=true"/>
 
 ---
 
