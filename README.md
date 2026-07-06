@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,40:1E3A8A,100:38BDF8&text=Sadra%20Nosrati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=60&descSize=20"/>
@@ -126,5 +125,3 @@ A responsive e-commerce website built with **HTML**, **CSS**, **JavaScript**, an
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,40:1E3A8A,100:0F172A"/>
-
-```
