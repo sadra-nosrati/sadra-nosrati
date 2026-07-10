@@ -13,7 +13,13 @@
 </p>
 
 ---
-@@ -23,24 +23,28 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
+
+# 👋 About Me
+
+Hi, I'm **Sadra Nosrati**, a Front-End Developer based in **Tehran, Iran**.
+
+I enjoy building responsive, modern, and user-friendly web applications using clean code and contemporary web technologies. I continuously improve my skills by developing real-world projects and exploring new tools within the front-end ecosystem.
+
 - 🌍 Based in Tehran, Iran
 - 💻 Front-End Developer
 - 🚀 Passionate about responsive UI and modern web development
@@ -42,9 +48,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
-@@ -51,20 +55,20 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="170"
 src="https://github-readme-stats.shion.dev/api?username=sadra-nosrati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
@@ -62,7 +72,14 @@ src="https://streak-stats.demolab.com/?user=sadra-nosrati&theme=tokyonight&hide_
 
 </div>
 
-@@ -79,8 +83,18 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sadra-nosrati&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
   />
 </p>
 
@@ -81,7 +98,11 @@ A modern, fully responsive luxury real estate web application built with React, 
 ### 🛒 Digital Parts Store
 
 A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
-@@ -92,18 +106,18 @@ A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
+
+---
+
+# 📫 Connect With Me
+
 <p>
 
 <a href="https://github.com/sadra-nosrati">
@@ -100,3 +121,4 @@ A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
