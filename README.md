@@ -1,169 +1,120 @@
-![React](https://img.shields.io/badge/React-19-FAA843?logo=react)
-![Vite](https://img.shields.io/badge/Vite-Latest-FAA843?logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-FAA843?logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-Express-FAA843?logo=node.js)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f3460,100:00c6ff&height=240&section=header&text=Sadra%20Nosrati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,50:FF9800,100:FFB300&height=240&section=header&text=Sadra%20Nosrati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descSize=18&descAlignY=60" width="100%" />
 
-# 🏡 Melkino — Luxury Real Estate Web Application
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9800&center=true&vCenter=true&width=750&lines=Front-End+Developer;Building+Modern+Web+Experiences;React+%7C+JavaScript+%7C+Tailwind+CSS;Always+Learning+and+Building" />
+</p>
 
-![Melkino Preview](./client/public/screenshots/home-1.webp)
-
-Melkino is a modern and fully responsive **Luxury Real Estate Web Application** built with **React**, **Vite**, **Tailwind CSS v4**, **Node.js**, and **Express.js**.
-
-The project was created as a frontend-focused portfolio application to demonstrate modern React development, clean architecture, reusable components, responsive UI design, and seamless integration with dynamic backend data.
-
-Although a lightweight backend is included to provide dynamic content, the primary focus of this project is delivering a polished frontend experience and following modern frontend development best practices.
-
----
-
-# ✨ Features
-
-- 🏡 Modern luxury real estate interface
-- 📱 Fully responsive across desktop, tablet, and mobile devices
-- ⚡ Fast performance powered by Vite
-- 🎨 Beautiful UI built with Tailwind CSS v4
-- 🧩 Reusable React component architecture
-- 🔐 Authentication (Login & Register)
-- 📊 User Dashboard
-- 🏘️ Dynamic property listings
-- 📄 Property details page
-- 🔄 REST API integration
-- 📦 Clean and scalable folder structure
-- 💻 Modern frontend architecture
-- 🎯 User-centered interface design
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadra-nosrati&color=00c6ff&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=sadra-nosrati&color=ff9800&style=flat-square&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/sadra-nosrati?label=FOLLOWERS&style=flat-square&color=00c6ff"/>
+  <img src="https://img.shields.io/github/followers/sadra-nosrati?label=FOLLOWERS&style=flat-square&color=ff9800"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0f3460?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF9800?style=flat-square"/>
+</p>
 
 ---
-
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-![Home Page](./client/public/screenshots/home-1.webp)
-
-![Home Page](./client/public/screenshots/home-2.webp)
-
----
-
-## 📊 Dashboard
-
-![Dashboard](./client/public/screenshots/dashboard-1.webp)
-
-![Dashboard](./client/public/screenshots/dashboard-2.webp)
-
----
-
-## 🔐 Login / Register
-
-![Authentication](./client/public/screenshots/login.webp)
-
----
-
-## 🏘️ Property Details
-
-![Property Details](./client/public/screenshots/product-1.webp)
-
-![Property Details](./client/public/screenshots/product-2.webp)
+@@ -23,24 +23,28 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
+- 🌍 Based in Tehran, Iran
+- 💻 Front-End Developer
+- 🚀 Passionate about responsive UI and modern web development
+- 📚 Currently expanding React knowledge
+- 🎯 Focused on clean and scalable code
+- ⚛️ Building projects with React & Tailwind CSS
+- 📚 Always learning new technologies
+- 🎯 Focused on clean, scalable, and maintainable code
 
 ---
 
 # 🚀 Tech Stack
 
-## Frontend
+### 💻 Languages
 
-- React
-- Vite
-- Tailwind CSS v4
-- React Router
-- Axios
-- JavaScript (ES6+)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
 
-## Backend
+### ⚙️ Frameworks & Libraries
 
-- Node.js
-- Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+</p>
 
----
+### 🧰 Tools
 
-# 📌 About the Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+@@ -51,20 +55,20 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
 
-Melkino includes a lightweight **Node.js & Express** backend whose purpose is to provide dynamic data and simulate real-world API communication.
+<div align="center">
 
-The backend is intentionally kept simple because the primary goal of this project is to showcase frontend engineering skills, including responsive layouts, component architecture, UI implementation, state management, API integration, and overall user experience.
+  <img height="170"
+    src="https://github-readme-stats.shion.dev/api?username=sadra-nosrati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170"
+src="https://github-readme-stats.shion.dev/api?username=sadra-nosrati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
----
+  &nbsp;&nbsp;
+&nbsp;&nbsp;
 
-# ⚙️ Installation
+  <img height="170"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=sadra-nosrati&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img height="170"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=sadra-nosrati&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-Clone the repository
+</div>
 
-```bash
-git clone https://github.com/sadra-nosrati/melkino-real-estate.git
-```
+<div align="center">
 
-Install frontend dependencies
+  <img height="170"
+    src="https://streak-stats.demolab.com/?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://streak-stats.demolab.com/?user=sadra-nosrati&theme=tokyonight&hide_border=true"/>
 
-```bash
-cd client
-npm install
-```
+</div>
 
-Start the frontend
-
-```bash
-npm run dev
-```
-
-Run the backend
-
-```bash
-cd ../server
-npm install
-npm run dev
-```
+@@ -79,8 +83,18 @@ I enjoy building responsive, modern, and user-friendly web applications using cl
+  />
+</p>
 
 ---
 
-# 🎯 What This Project Demonstrates
+# 📌 Featured Projects
 
-- Modern React development
-- Component-based architecture
-- Responsive web design
-- Reusable UI components
-- Clean and maintainable code
-- Dynamic data rendering
-- REST API integration
-- Scalable project structure
-- Frontend best practices
-- Performance-focused development
+### 🏡 Melkino – Luxury Real Estate
+
+A modern, fully responsive luxury real estate web application built with React, Vite, Tailwind CSS v4, Node.js, and Express.js.
+
+⭐ Modern UI • Responsive Design • Dashboard • Authentication • Dynamic Properties
 
 ---
 
-# 🔮 Future Improvements
+### 🛒 Digital Parts Store
 
-- Advanced property search
-- Property filtering & sorting
-- Favorites / Wishlist
-- Interactive maps
-- Image optimization
-- Dark mode
-- Better authentication flow
-- Admin dashboard improvements
-- Production-ready backend
-- Deployment with cloud services
+A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
+@@ -92,18 +106,18 @@ A responsive e-commerce website built with HTML, CSS, JavaScript, and PHP.
+<p>
 
----
+<a href="https://github.com/sadra-nosrati">
+<img src="https://img.shields.io/badge/GitHub-Profile-00c6ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-# 👨‍💻 Author
+<a href="https://t.me/levioosu">
+<img src="https://img.shields.io/badge/Telegram-@levioosu-00c6ff?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-@levioosu-FF9800?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-**Sadra Nosrati**
-
-Frontend Developer passionate about building modern, responsive, and user-focused web applications.
-
-GitHub: https://github.com/sadra-nosrati
+</p>
 
 ---
 
-# ⭐ Support
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0f3460,100:0a192f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB300,50:FF9800,100:FF7A00&height=120&section=footer"/>
 
-If you enjoyed this project or found it useful, consider giving it a **Star ⭐**.
-
-Your support is greatly appreciated and helps the project reach more developers.
+<p align="center">
+⭐ Thanks for visiting my profile!
